@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name" translatable="false">Sharikov</string>
+
+    <string name="menu_home">Listen</string>
+    <string name="menu_pray">Pray</string>
+    <string name="menu_books">Books</string>
+    <string name="menu_grow">Grow</string>
+    <string name="menu_setting">Setting</string>
+    <string name="language">Language</string>
+    <string name="podcast">Podcast</string>
+    <string name="musicPlayer">Music\nPlayer</string>
+    <string name="sermons">Sermons</string>
+    <string name="bibleAudio">Bible\nAudio</string>
+    <string name="notify_bible">Notify bible</string>
+    <string name="prayer_request">Prayer request</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="album">Album</string>
+    <string name="sharikov_book" translatable="false">Sharikov SongBook</string>
+
+    <string name="please_restart">Please restart the app to apply the changes correctly !</string>
+    <string name="ok">OK</string>
+
+    <string name="title_notif_bible">Reminder:</string>
+    <string name="msg_notif_bible">Read the Bible and grow in His World!</string>
+
+    <string name="title_notif_pray">Reminder:</string>
+    <string name="msg_notif_pray">See the latest prayer requests</string>
+
+    <string name="album1" translatable="false">ДЕРЖИ МЕНЯ</string>
+    <string name="album2" translatable="false">ЛИШЬ ИИСУС</string>
+    <string name="album3" translatable="false">ТЫ МОЯ ЖИЗНЬ</string>
+    <string name="album4" translatable="false">БЕЗ ТЕБЯ ТЕМНО</string>
+
+    <string-array name="bookTitle">
+        <item>You Are My Hiding Place</item>
+        <item>Берегите любовь!</item>
+        <item>Боже, в мире суеты</item>
+        <item>В минуты тяжелой</item>
+        <item>А я люблю весенние дожди</item>
+        <item>Вот Божий Сын</item>
+        <item>Время спешит</item>
+        <item>Говорит Господь: "Приди"</item>
+        <item>Дай мне сил</item>
+        <item>Далеко, далеко</item>
+        <item>Добрые руки</item>
+        <item>Дорогие наши родители</item>
+        <item>Невидимые руки</item>
+        <item>Если душою я изнемогаю...</item>
+        <item>Если изнемог в пути</item>
+        <item>Есть для плачущих</item>
+        <item>Есть один только путь</item>
+        <item>Когда успех и лёгкость</item>
+        <item>Любите друг друга</item>
+        <item>Любовь - такое хрупкое созданье</item>
+        <item>Меня манят к себе небеса...</item>
+        <item>Молились вы давно об этом дне</item>
+        <item>О, Господь, благославляя</item>
+        <item>Открылось небо</item>
+        <item>Отцу платить</item>
+        <item>Рано утром</item>
+        <item>Со мной ли Он?</item>
+        <item>Я тленный человек</item>
+        <item>Я так хочу в небеса ко Христу</item>
+        <item>Я буду счастлив</item>
+        <item>На страже</item>
+        <item>Если душою я изнемогаю...</item>
+        <item>Прости</item>
+        <item>Господи, Вселенную</item>
+        <item>Придите и прославьте Его</item>
+        <item>На земле всё проходит</item>
+        <item>На пол дороги</item>
+        <item>Рано утром</item>
+        <item>Сидел слепец</item>
+        <item>Я каждый день</item>
+        <item>Sharikov Songbook</item>
+    </string-array>
+    <string-array name="bookLink">
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/YOU-ARE-MY-HIDING-PLACE-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%91%D0%B5%D1%80%D0%B5%D0%B3%D0%B8%D1%82%D0%B5-%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%91%D0%BE%D0%B6%D0%B5-%D0%B2-%D0%BC%D0%B8%D1%80%D0%B5-%D1%81%D1%83%D0%B5%D1%82%D1%8B-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%92-%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D1%8B-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%B9-%D1%83%D1%82%D1%80%D0%B0%D1%82%D1%8B-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%90-%D1%8F-%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E-%D0%B2%D0%B5%D1%81%D0%B5%D0%BD%D0%BD%D0%B8%D0%B5-%D0%B4%D0%BE%D0%B6%D0%B4%D0%B8-Full-Score-1.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%92%D0%BE%D1%82-%D0%91%D0%BE%D0%B6%D0%B8%D0%B9-%D0%A1%D1%8B%D0%BD-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%92%D1%80%D0%B5%D0%BC%D1%8F-%D1%81%D0%BF%D0%B5%D1%88%D0%B8%D1%82-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82-%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%9F%D1%80%D0%B8%D0%B4%D0%B8-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%94%D0%B0%D0%B9-%D0%BC%D0%BD%D0%B5-%D1%81%D0%B8%D0%BB-%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C%D1%81%D1%8F-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%94%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE-%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE-%D0%B4%D0%B0%D0%BB%D0%B5%D0%BA%D0%BE..._2-5.33.21-PM-5.41.31-PM-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B5-%D1%80%D1%83%D0%BA%D0%B8-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%94%D0%BE%D1%80%D0%BE%D0%B3%D0%B8%D0%B5-%D0%BD%D0%B0%D1%88%D0%B8-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%94%D1%80%D1%83%D0%B3-%D0%BF%D1%80%D0%B8%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%B2-%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8-%D1%80%D0%B0%D0%B7-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%95%D1%81%D0%BB%D0%B8-%D0%B4%D1%83%D1%88%D0%BE%D1%8E-%D1%8F-%D0%B8%D0%B7%D0%BD%D0%B5%D0%BC%D0%BE%D0%B3%D0%B0%D1%8E...-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%95%D1%81%D0%BB%D0%B8-%D0%B8%D0%B7%D0%BD%D0%B5%D0%BC%D0%BE%D0%B3-%D0%B2-%D0%BF%D1%83%D1%82%D0%B8-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%95%D1%81%D1%82%D1%8C-%D0%B4%D0%BB%D1%8F-%D0%BF%D0%BB%D0%B0%D1%87%D1%83%D1%89%D0%B8%D1%85-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B8-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%95%D1%81%D1%82%D1%8C-%D0%BE%D0%B4%D0%B8%D0%BD-%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE-%D0%BF%D1%83%D1%82%D1%8C-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0-%D1%83%D1%81%D0%BF%D0%B5%D1%85-%D0%B8-%D0%BB%D1%91%D0%B3%D0%BA%D0%BE%D1%81%D1%82%D1%8C-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9B%D1%8E%D0%B1%D0%B8%D1%82%D0%B5-%D0%B4%D1%80%D1%83%D0%B3-%D0%B4%D1%80%D1%83%D0%B3%D0%B0-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D1%85%D1%80%D1%83%D0%BF%D0%BA%D0%BE%D0%B5-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D1%8C%D0%B5_3-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9C%D0%B5%D0%BD%D1%8F-%D0%BC%D0%B0%D0%BD%D1%8F%D1%82-%D0%BA-%D1%81%D0%B5%D0%B1%D0%B5-%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B0...-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9C%D0%BE%D0%BB%D0%B8%D0%BB%D0%B8%D1%81%D1%8C-%D0%B2%D1%8B-%D0%B4%D0%B0%D0%B2%D0%BD%D0%BE-%D0%BE%D0%B1-%D1%8D%D1%82%D0%BE%D0%BC-%D0%B4%D0%BD%D0%B5-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9E-%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D1%8C-%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8F%D1%8F-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D0%BB%D0%BE%D1%81%D1%8C-%D0%BD%D0%B5%D0%B1%D0%BE-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9E%D1%82%D1%86%D1%83-%D0%BF%D0%BB%D0%B0%D1%82%D0%B8%D1%82%D1%8C-%D0%BD%D0%B5-%D0%BD%D0%B0%D0%B4%D0%BE-%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE_3-Full-Score.pdf</item>
+        <item>https://static1.squarespace.com/static/5752364962cd944a465bef07/t/584310bf3e00be994a5b14ac/1480790207983/%D0%A0%D0%B0%D0%BD%D0%BE+%D1%83%D1%82%D1%80%D0%BE%D0%BC+-+Full+Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%A1%D0%BE-%D0%BC%D0%BD%D0%BE%D0%B9-%D0%BB%D0%B8-%D0%9E%D0%BD-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%AF-%D1%82%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%AF-%D1%82%D0%B0%D0%BA-%D1%85%D0%BE%D1%87%D1%83-%D0%B2-%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B0-%D0%BA%D0%BE-%D0%A5%D1%80%D0%B8%D1%81%D1%82%D1%83_4-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%AF-%D0%B1%D1%83%D0%B4%D1%83-%D1%81%D1%87%D0%B0%D1%81%D1%82%D0%BB%D0%B8%D0%B2-Full-Score.pdf</item>
+        <item>https://static1.squarespace.com/static/5752364962cd944a465bef07/t/57cf6aecebbd1adbaf1e1157/1473211116734/%D0%AF+%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B8%CC%86+%D0%B4%D0%B5%D0%BD%D1%8C+-+Full+Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%95%D1%81%D0%BB%D0%B8-%D0%B4%D1%83%D1%88%D0%BE%D1%8E-%D1%8F-%D0%B8%D0%B7%D0%BD%D0%B5%D0%BC%D0%BE%D0%B3%D0%B0%D1%8E...-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9D%D0%9E%D0%A2%D0%AB-%D0%9F%D1%80%D0%BE%D1%81%D1%82%D0%B8-1.png</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%93%D0%BE%D1%81%D0%BF%D0%BE%D0%B4%D0%B8-%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D1%83%D1%8E-%D0%BF%D1%80%D0%B5%D0%BC%D1%83%D0%B4%D1%80%D0%BE-%D0%A2%D1%8B-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BB_4-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/10/%D0%9F%D1%80%D0%B8%D0%B4%D0%B8%D1%82%D0%B5-%D0%B8-%D0%BF%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%8C%D1%82%D0%B5-%D0%95%D0%B3%D0%BE-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9D%D0%B0-%D0%B7%D0%B5%D0%BC%D0%BB%D0%B5-%D0%B2%D1%81%D1%91-%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%D0%B8%D1%82-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/04/%D0%9D%D0%B0-%D0%BF%D0%BE%D0%BB-%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/10/%D0%A0%D0%B0%D0%BD%D0%BE-%D1%83%D1%82%D1%80%D0%BE%D0%BC_2-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/10/%D0%A1%D0%B8%D0%B4%D0%B5%D0%BB-%D1%81%D0%BB%D0%B5%D0%BF%D0%B5%D1%86-Full-Score.pdf</item>
+        <item>https://sharikovministries.com/wp-content/uploads/2018/10/%D0%AF-%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C-Full-Score.pdf</item>
+        <item>https://sharikovministries.com</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_home">Слушать</string>
+    <string name="menu_pray">Молитва</string>
+    <string name="menu_books">Книги</string>
+    <string name="menu_grow">Духовный рост</string>
+    <string name="menu_setting">Настройки</string>
+    <string name="language">Язык</string>
+    <string name="podcast">Подкасты</string>
+    <string name="musicPlayer">Плейер</string>
+    <string name="sermons">Проповеди</string>
+    <string name="bibleAudio">Библия</string>
+    <string name="notify_bible">Библейские извещения</string>
+    <string name="prayer_request">Молитвенные нужды</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="album">альбом</string>
+
+    <string name="please_restart">Пожалуйста, перезапустите приложение, чтобы применить изменения правильно!</string>
+    <string name="ok">Xорoшo</string>
+    <string name="title_notif_bible">Напоминание:</string>
+    <string name="msg_notif_bible">Читайт Библию и возpacтaй в Его познaнии!</string>
+
+    <string name="title_notif_pray">Напоминание:</string>
+    <string name="msg_notif_pray">Смотрите последние молитвенные просьбы</string>
+</resources>
